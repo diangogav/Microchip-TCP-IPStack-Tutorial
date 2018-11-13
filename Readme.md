@@ -1,7 +1,8 @@
-    This guide is based in a post make by maxruben at https://www.microchip.com/forums/m722110.aspx.
+This guide is based in a post make by maxruben at https://www.microchip.com/forums/m722110.aspx.
 
-    This post helped me start on the TCPIP/Stack Library Microchip and i decided to shared with you in more detail.
+This post helped me start on the TCPIP/Stack Library Microchip and i decided to shared with you in more detail.
 
+---
  Download the microchip-libraries-for-applications v2013-06-15 on https://www.microchip.com/mplab/microchip-libraries-for-applications
 
  Install TCP library
